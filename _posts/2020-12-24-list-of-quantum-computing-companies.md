@@ -32,10 +32,13 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 
 ## Quantum dots
 - [HRL](https://quantum.hrl.com/)
+- [C12 Quantum Electronics](https://www.linkedin.com/company/c12-quantum-electronics/)
 
 ## Photonics
 - [Xanadu](https://www.xanadu.ai/)
 - [PsiQuantum](https://psiquantum.com/)
+- [Quix](https://www.quix.nl/)
+- [Anametric](https://anametric.com/)
 
 ## Electrons on Helium
 - [EeroQ](https://www.eeroq.com/)
