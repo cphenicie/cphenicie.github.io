@@ -5,7 +5,7 @@ tags:
   - hardware
 ---
 
-Last updated Dec 27, 2020. N=23 companies.
+Last updated Jan 10, 2021. N=24 companies.
 
 I like to keep an updated list of all the companies that are currently trying to build a commercially viable quantum computer. For now, the list only contains the companies that are trying to build the physical quantum computer itself, not including companies that are developing software that runs on a quantum computer (such as [QCWARE](https://qcware.com/)) or products to aid in the development of quantum computers (such as [Q-CTRL](https://q-ctrl.com/products/)). Instead, this will focus on the companies that actually own the device. I expect that quantum computers will be cloud devices for years to come, so these are the companies that are a candidate to be the AWS of quantum computing.
 
@@ -33,6 +33,7 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 ## Quantum dots
 - [HRL](https://quantum.hrl.com/)
 - [C12 Quantum Electronics](https://www.linkedin.com/company/c12-quantum-electronics/)
+- [IMEC](https://www.imec-int.com/en/quantum-computing)
 
 ## Photonics
 - [Xanadu](https://www.xanadu.ai/)
