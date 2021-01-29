@@ -24,6 +24,7 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 - [Honeywell](https://www.honeywell.com/us/en/company/quantum)
 - [IonQ](https://ionq.com/)
 - [Universal Quantum](https://universalquantum.com/)
+- [Aqtion](https://www.aqtion.eu/)
 
 ## Neutral atoms
 - [Quera](https://www.quera-computing.com/)
