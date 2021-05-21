@@ -36,7 +36,7 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 - [Silicon Quantum Computing](https://sqc.com.au/)
 - [C12 Quantum Electronics](https://www.linkedin.com/company/c12-quantum-electronics/)
 - [IMEC](https://www.imec-int.com/en/quantum-computing)
-- [Quantum Motion (? They say silicon, not sure if quantum dots or spins in silicon)](https://quantummotion.tech/)
+- [Quantum Motion (? They say silicon, not sure if quantum dots or donors in silicon)](https://quantummotion.tech/)
 
 ## Photonics
 - [Xanadu](https://www.xanadu.ai/)
