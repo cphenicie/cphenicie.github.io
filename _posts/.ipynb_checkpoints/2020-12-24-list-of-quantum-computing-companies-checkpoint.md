@@ -5,11 +5,11 @@ tags:
   - hardware
 ---
 
-Last updated Apr 01, 2021. N=27 companies.
+Last updated July 03, 2021. N=31 companies.
 
 I like to keep an updated list of all the companies that are currently trying to build a commercially viable quantum computer. For now, the list only contains the companies that are trying to build the physical quantum computer itself, not including companies that are developing software that runs on a quantum computer (such as [QCWARE](https://qcware.com/)) or products to aid in the development of quantum computers (such as [Q-CTRL](https://q-ctrl.com/products/)). Instead, this will focus on the companies that actually own the device. I expect that quantum computers will be cloud devices for years to come, so these are the companies that are a candidate to be the AWS of quantum computing.
 
-I have divided up the companies by what type of hardware they are pursuing, and within each type of hardware I ordered them by my highly subjective and non-rigorous impression of how likely they are to actually build a useful quantum computer.
+I have divided up the companies by what type of hardware they are pursuing.
 
 ## Superconducting qubits
 - [IBM](https://www.ibm.com/quantum-computing/)
@@ -19,12 +19,15 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 - [Rigetti](https://www.rigetti.com/)
 - [Quantum Circuits](https://quantumcircuits.com/)
 - [Oxford Quantum Circuits](https://oxfordquantumcircuits.com/story)
+- [IQM](https://www.meetiqm.com/)
 
 ## Trapped ions
 - [Honeywell](https://www.honeywell.com/us/en/company/quantum)
 - [IonQ](https://ionq.com/)
 - [Universal Quantum](https://universalquantum.com/)
 - [Aqtion](https://www.aqtion.eu/)
+- [Oxford Ionics](https://www.oxionics.com/)
+- [Alpine Quantum Technologies](https://www.aqt.eu/)
 
 ## Neutral atoms
 - [Quera](https://www.quera-computing.com/)
@@ -33,9 +36,10 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 
 ## Quantum dots
 - [HRL](https://quantum.hrl.com/)
+- [Silicon Quantum Computing](https://sqc.com.au/)
 - [C12 Quantum Electronics](https://www.linkedin.com/company/c12-quantum-electronics/)
 - [IMEC](https://www.imec-int.com/en/quantum-computing)
-- [Quantum Motion (? They say silicon, not sure if quantum dots or spins in silicon)](https://quantummotion.tech/)
+- [Quantum Motion (? They say silicon, not sure if quantum dots or donors in silicon)](https://quantummotion.tech/)
 
 ## Photonics
 - [Xanadu](https://www.xanadu.ai/)
@@ -57,3 +61,4 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 ## Companies that might be building devices, but I can't tell from their website
 - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)
 - [Tencent](https://quantum.tencent.com/en-us/)
+- [Seeqc](https://seeqc.com/innovation/dqm-system-on-a-chip/)

@@ -5,11 +5,11 @@ tags:
   - hardware
 ---
 
-Last updated May 20, 2021. N=28 companies.
+Last updated July 03, 2021. N=31 companies.
 
 I like to keep an updated list of all the companies that are currently trying to build a commercially viable quantum computer. For now, the list only contains the companies that are trying to build the physical quantum computer itself, not including companies that are developing software that runs on a quantum computer (such as [QCWARE](https://qcware.com/)) or products to aid in the development of quantum computers (such as [Q-CTRL](https://q-ctrl.com/products/)). Instead, this will focus on the companies that actually own the device. I expect that quantum computers will be cloud devices for years to come, so these are the companies that are a candidate to be the AWS of quantum computing.
 
-I have divided up the companies by what type of hardware they are pursuing, and within each type of hardware I ordered them by my highly subjective and non-rigorous impression of how likely they are to actually build a useful quantum computer.
+I have divided up the companies by what type of hardware they are pursuing.
 
 ## Superconducting qubits
 - [IBM](https://www.ibm.com/quantum-computing/)
@@ -19,12 +19,15 @@ I have divided up the companies by what type of hardware they are pursuing, and 
 - [Rigetti](https://www.rigetti.com/)
 - [Quantum Circuits](https://quantumcircuits.com/)
 - [Oxford Quantum Circuits](https://oxfordquantumcircuits.com/story)
+- [IQM](https://www.meetiqm.com/)
 
 ## Trapped ions
 - [Honeywell](https://www.honeywell.com/us/en/company/quantum)
 - [IonQ](https://ionq.com/)
 - [Universal Quantum](https://universalquantum.com/)
 - [Aqtion](https://www.aqtion.eu/)
+- [Oxford Ionics](https://www.oxionics.com/)
+- [Alpine Quantum Technologies](https://www.aqt.eu/)
 
 ## Neutral atoms
 - [Quera](https://www.quera-computing.com/)
