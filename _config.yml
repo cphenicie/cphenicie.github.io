@@ -61,8 +61,8 @@ plugins:
 
 author:
   name   : "Christopher Phenicie"
-  avatar : "/assets/images/website_photo.jpg"
-  bio    : "Graduate student in Electrical Engineering. Looking for the most effective ways to help the world."
+  avatar : "/assets/images/mountain_1.PNG"
+  bio    : ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
