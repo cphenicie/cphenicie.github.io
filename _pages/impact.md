@@ -1,5 +1,5 @@
 ---
-permalink: /Impact/
+permalink: /impact/
 title: "Impact"
 ---
 
